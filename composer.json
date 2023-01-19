@@ -1,6 +1,6 @@
 {
-    "name": "facebook/graph-sdk",
-    "description": "Facebook SDK for PHP",
+    "name": "pressloft/graph-sdk",
+    "description": "Press Loft fork for the Facebook SDK for PHP",
     "keywords": ["facebook", "sdk"],
     "type": "library",
     "homepage": "https://github.com/facebook/php-graph-sdk",
